@@ -11,7 +11,7 @@ In the video, Justin plotted the histograms by using the pandas library and inde
 
 Instructions
 
-Import matplotlib.pyplot and seaborn as their usual aliases (plt and sns).
-Use seaborn to set the plotting defaults.
-Plot a histogram of the Iris versicolor petal lengths using plt.hist() and the provided NumPy array versicolor_petal_length.
-Show the histogram using plt.show().
+1. Import matplotlib.pyplot and seaborn as their usual aliases (plt and sns).
+2. Use seaborn to set the plotting defaults.
+3. Plot a histogram of the Iris versicolor petal lengths using plt.hist() and the provided NumPy array versicolor_petal_length.
+4. Show the histogram using plt.show().
